@@ -19,7 +19,8 @@ Communiti is a mobile application that allows NGOs (non-governmental organizatio
 
 ## How to Use
 
-To use Communiti, simply download the APK file from the link below and install it on your Android device. Once installed, you can create a profile as either an NGO or a volunteer, search for volunteer opportunities or post opportunities as an NGO, and apply to opportunities or view applications as a volunteer or NGO, respectively.
+- To use Communiti, simply download the APK file from the link below and install it on your Android device. Once installed, you can create a profile as either an NGO or a volunteer, search for volunteer opportunities or post opportunities as an NGO, and apply to opportunities or view applications as a volunteer or NGO, respectively.
+- Video walkthrough of the App: [here](https://youtu.be/_qGXzgtyRMw)
 
 ## Download
 
