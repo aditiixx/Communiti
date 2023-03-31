@@ -1,4 +1,4 @@
-# Communiti
+<h1><img align="center" height=5% width=5% src="app_icon.png"> Communiti</h1>
 
 Communiti is a mobile application that allows NGOs (non-governmental organizations) to post volunteer opportunities and volunteers to find and sign up for those opportunities. The app helps to bridge the gap between NGOs in need of volunteers and individuals who want to give back to their community.
 
@@ -13,7 +13,9 @@ Communiti is a mobile application that allows NGOs (non-governmental organizatio
 
 ## Technologies Used
 
-Communiti is built using Flutter for the frontend, Firebase for the backend, and cloud Firestore for the database.
+- Communiti is built using Flutter for the frontend, Firebase for the backend, and cloud Firestore for the database
+- Python used for summarizing and searching algorithms, Flask used to deploy python scripts on web using Render
+- BM25 is a ranking function that sorts a group of documents based on the presence of query terms in each document
 
 ## How to Use
 
@@ -31,9 +33,10 @@ If you'd like to contribute to Communiti, please fork the repository and create 
 - [Shivam](https://github.com/mavihS-0)
 - [Vidhi P Shah](https://github.com/vps115)
 - [Aditi Jain](https://github.com/aditiixx)
-- [Ronith Jaju]()
+- [Ronith Jaju](https://github.com/RonithJaju)
 
 ## Credits
 
 - Loading Animation: [JC Toon](https://rive.app/@JcToon/)
 - Login Button Animation: [DesignCode](https://designcode.io/)
+- RankBM25 algorithm: [Dorian Brown](https://github.com/dorianbrown/rank_bm25)
